@@ -6,3 +6,14 @@ Habrá una curva de dificultad que haga que el jugador tenga que ir ahorrando po
 Las fases consisten en un juego de mesa del estilo de el minijuego de horizon forbidden west, en el que tienes que ir superando dificultades.
 
 En cada mapa empiezas con las piezas que tengas acomuladas, y jugaras en contra de un boss grande sobre una inseguridad tuya o un bloqueo que te impide llegar a conquistar a la chica
+
+
+4 Clases de fase: Inseguridades tuyas, bloqueos externos, algo del entorno de ella, boss final contra ella.
+
+
+Tipos de inseguridades: físicas, intelectuales, afectivas.
+Tipos de bloqueos externos: exámenes, fin rebelión de las maquinas, carrera de 	caracoles(caracol de lag), estampida de mapaches(mapache de tutorial de 	godot), rebelión de ents, examen de MAR, conquista del imperio romano.
+Tipos de cosas del entorno de ella: bart Simpson es su ex, vive en la otra punta de 	la galaxia, es abducida en una secta, sus padres te tratan de inferior, 	pilla una enfermedad.
+Tipos de boss final: godot machine(chica robot), chica de playa, rusa kornospicof, 	profe de la uni, alien naranja, dj, 
+
+

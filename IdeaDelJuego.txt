@@ -1,0 +1,8 @@
+Hacer un rogueLike, de 5 fases en el que cuando completas una fase, se ramifica y puedes escoger diferentes fases.
+En cada fase se haría un juego de mesa.
+Cada fase tendrá modificadores diferentes.
+La dinámica del juego es conquistar a una chica, para ello hay que superar 5 fases de acercarcamiento  la chica. 
+Habrá una curva de dificultad que haga que el jugador tenga que ir ahorrando power ups para facilitarse las siguientes fases.
+Las fases consisten en un juego de mesa del estilo de el minijuego de horizon forbidden west, en el que tienes que ir superando dificultades.
+
+En cada mapa empiezas con las piezas que tengas acomuladas, y jugaras en contra de un boss grande sobre una inseguridad tuya o un bloqueo que te impide llegar a conquistar a la chica

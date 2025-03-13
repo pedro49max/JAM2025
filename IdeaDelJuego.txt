@@ -17,3 +17,7 @@ Tipos de cosas del entorno de ella: bart Simpson es su ex, vive en la otra punta
 Tipos de boss final: godot machine(chica robot), chica de playa, rusa kornospicof, 	profe de la uni, alien naranja, dj, 
 
 
+En cada fase ganas puntos de confianza en ti mismo que se pueden cangear en la tioenda por bonuses
+
+En cada fase juegas tu contra la adversidad.
+En la fase habrá un pseudo laberinto de casillas y cada casilla puede hacer que superes la fase o no.

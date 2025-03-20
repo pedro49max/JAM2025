@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/golpe-bajo-80713.mp3-66bacdd00991a4c1228945fd00ebd5f5.mp3str"
+
+[deps]
+
+source_file="res://assets/Sonido/golpe-bajo-80713.mp3"
+dest_files=[ "res://.import/golpe-bajo-80713.mp3-66bacdd00991a4c1228945fd00ebd5f5.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

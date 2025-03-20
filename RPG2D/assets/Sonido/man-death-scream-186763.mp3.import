@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/man-death-scream-186763.mp3-4aacae7bc671c3165e4243c5954f38d8.mp3str"
+
+[deps]
+
+source_file="res://assets/Sonido/man-death-scream-186763.mp3"
+dest_files=[ "res://.import/man-death-scream-186763.mp3-4aacae7bc671c3165e4243c5954f38d8.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/dumbfounded-pain-102130.mp3-516ad6aabf6bdaa756ef2bbebe750fc2.mp3str"
+
+[deps]
+
+source_file="res://assets/Sonido/dumbfounded-pain-102130.mp3"
+dest_files=[ "res://.import/dumbfounded-pain-102130.mp3-516ad6aabf6bdaa756ef2bbebe750fc2.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
